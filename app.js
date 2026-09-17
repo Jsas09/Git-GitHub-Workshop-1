@@ -33,7 +33,7 @@ const SKILLS = ["Communication skills"];
 
 // PARTNER A & B TASK: Add project ideas that the team might want to build together.
 const PROJECT_IDEAS = [
-  { icon: "?", title: "Choose our next idea", detail: "Replace this placeholder together." },
+  { icon: "?", title: "Choose our next idea", detail: "Another workshop with Alma." },
 ];
 
 function escapeHtml(value) {
