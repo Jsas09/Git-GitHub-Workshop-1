@@ -13,9 +13,9 @@ const TEAM_INFO = {
 
 // PARTNER A TASK: Replace only the values in this object with Partner A's details.
 const PARTNER_A = {
-  name: "Partner A",
-  major: "Your major",
-  favoriteTech: "HTML",
+  name: "Jon Arcelay",
+  major: "Computerized Information Systems",
+  favoriteTech: "Intellisense",
   initials: "A",
 };
 
